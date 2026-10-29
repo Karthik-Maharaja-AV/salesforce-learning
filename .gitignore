@@ -1,0 +1,5 @@
+.DS_Store
+ascend-backup-*.json
+*.log
+.env
+.env.*
